@@ -7,14 +7,13 @@
 <div class="pub-row">
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><i style="color:#3388A2">Encoding Recurrence into Transformers</i></div>
-    <div class="author">Feiqing Huang, <strong>Kexin Lu</strong>, Yuxi Cai, Zhen Qin, Yanwen Fang, Guangjian Tian, Guodong Li</div>
-    <div class="periodical"><em>The Eleventh International Conference on Learning Representations <strong>(ICLR)</strong>, 2023.</em></div>
+    <div class="title"><i style="color:#3388A2">Neural Face Rigging for Animating and Retargeting Facial Meshes in the Wild </i></div>
+    <div class="author">Dafei Qin, Jun Saito, Noam Aigerman, Thibault Groueix, Taku Komura</div>
+    <div class="periodical"><em>SIGGRAPH 2023 Conference Papers, 2023.</em></div>
     <div class="links">
-      <a href="https://openreview.net/pdf?id=7YfHla7IxBJ" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://openreview.net/forum?id=7YfHla7IxBJ" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">OpenReview</a>
+      <a href="https://dafei-qin.github.io/NFR/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <a href="https://arxiv.org/abs/2305.08296" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
       <strong>Cofirst,</strong>
-      <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
     </div>
   </div>
 </div>
@@ -24,11 +23,11 @@
 <div class="pub-row">
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><i style="color:#3388A2">HAR-Ito models and high-dimensional HAR modeling for high-frequency data</i></div>
-    <div class="author">Huiling Yuan, <strong>Kexin Lu</strong>, Yifeng Guo, Guodong Li</div>
-    <div class="periodical"><em>Submitted.</em></div>
+    <div class="title"><i style="color:#3388A2">Bodyformer: Semantics-guided 3D Body Gesture Synthesis With Transformer</i></div>
+    <div class="author">Kunkun Pang, <strong>Dafei Qin</strong>, Yingruo Fan, Julian Habekost, Takaaki Shiratori, Junichi Yamagishi, Taku Komura</div>
+    <div class="periodical"><em>ACM Transaction on Graphics (Proceedings of SIGGRAPH 2023), 2023</em></div>
     <div class="links">
-      <a href="https://arxiv.org/abs/2303.02896" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
       <strong>Cofirst</strong>
     </div>
   </div>
