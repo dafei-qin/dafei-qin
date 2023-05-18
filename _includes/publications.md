@@ -2,7 +2,7 @@
 
 <div class="publications">
 <ol class="bibliography">
-<img  src="assets/img/NFR.jpg" alt="" class="teaser"  title="Top: Given an unrigged facial mesh with an unknown expression and identity in an arbitrary triangulation (yellow), NFR can transfer the expression to unrigged facial meshes with arbitrary triangulations (cyan). Bottom: NFR provides an interpretable latent space for user-friendly editing of the retargeted meshes." width="70%" height="70%" />
+<img  src="./assets/img/NFR.jpg" alt="" class="teaser"  title="Top: Given an unrigged facial mesh with an unknown expression and identity in an arbitrary triangulation (yellow), NFR can transfer the expression to unrigged facial meshes with arbitrary triangulations (cyan). Bottom: NFR provides an interpretable latent space for user-friendly editing of the retargeted meshes." width="70%" height="70%" />
 <li>
 
 <div class="pub-row">
@@ -18,7 +18,7 @@
 </div>
 </li>
 
-  <img  src="assets/img/BodyFormer.jpg" alt="" class="teaser"  title="Given an arbitrary input speech, our proposed transformer-based model, BodyFormer, can generate a sequence of vivid 3D body gestures" width="70%" height="70%" />
+  <img  src="./assets/img/BodyFormer.jpg" alt="" class="teaser"  title="Given an arbitrary input speech, our proposed transformer-based model, BodyFormer, can generate a sequence of vivid 3D body gestures" width="70%" height="70%" />
 <li>
 
 <div class="pub-row">
