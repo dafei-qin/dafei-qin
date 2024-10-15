@@ -31,21 +31,21 @@
   <td>
       <div class="magnify-lens">
         <div class="magnify">
-          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/test_video.mp4" width="352px" jm_neat="1310186497"></video>
+          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/depth_input.mp4" width="352px" jm_neat="1310186497"></video>
         </div>
       </div>
     </td>
     <td>
       <div class="magnify-lens">
         <div class="magnify">
-          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/test_video.mp4" width="352px" jm_neat="1310186497"></video>
+          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/depth_cond_1.mp4" width="352px" jm_neat="1310186497"></video>
         </div>
       </div>
     </td>
     <td>
       <div class="magnify-lens">
         <div class="magnify">
-          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/test_video.mp4" width="352px" jm_neat="1310186498"></video>
+          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/depth_cond_2.mp4" width="352px" jm_neat="1310186498"></video>
         </div>
       </div>
     </td>
