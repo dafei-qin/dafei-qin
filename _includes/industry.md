@@ -10,6 +10,22 @@
 
 
 
+
+<li>
+
+<div class="pub-row">
+  
+  <div class="col-sm-9" style="position: relative;padding-right: 0px;padding-left: 0px;">
+    <div class="title"><i style="color:#3388A2">Structural Match for Video Generation</i></div>
+    <!-- <div class="author"><Strong>Dafei Qin</Strong>, Hongyang Lin, Qixuan Zhang, Kaichun Qiao, Longwen Zhang, Zijun Zhao, Jun Saito, Jingyi Yu, Lan Xu, Taku Komura</div> -->
+    <!-- <div class="periodical"><em>arXiv</em></div> -->
+    <div class="links">
+      <a href="https://dafei-qin.github.io/TransGS.github.io/" class="link" role="link" target="_blank" style="font-size:16px;"><u>Project Page</u></a>
+    </div>
+  </div>
+</div>
+</li>
+
 <table>
   <tr>
   <td>
@@ -35,20 +51,6 @@
     </td>
   </tr>
 </table>
-<li>
-
-<div class="pub-row">
-  
-  <div class="col-sm-9" style="position: relative;padding-right: 0px;padding-left: 0px;">
-    <div class="title"><i style="color:#3388A2">Structural Match for Video Generation</i></div>
-    <!-- <div class="author"><Strong>Dafei Qin</Strong>, Hongyang Lin, Qixuan Zhang, Kaichun Qiao, Longwen Zhang, Zijun Zhao, Jun Saito, Jingyi Yu, Lan Xu, Taku Komura</div> -->
-    <!-- <div class="periodical"><em>arXiv</em></div> -->
-    <div class="links">
-      <a href="https://dafei-qin.github.io/TransGS.github.io/" class="link" role="link" target="_blank" style="font-size:16px;"><u>Project Page</u></a>
-    </div>
-  </div>
-</div>
-</li>
 
 
 <br>
