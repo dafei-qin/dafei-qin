@@ -2,7 +2,7 @@
 
 
 
-<div class="projects">
+<div class="publications">
 <ol class="bibliography">
 
 <img  src="./assets/img/TransGS.png" alt="" class="teaser"  title="We translate PBR Facial assets to Gaussian Splatting counterpart in seconds, enabling 30fps@1400p rendering on mobile phones." width="70%" height="70%" />
