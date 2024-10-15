@@ -5,7 +5,8 @@
 <div class="publications">
 <ol class="bibliography">
 
-<img  src="./assets/img/TransGS.png" alt="" class="teaser"  title="We translate PBR Facial assets to Gaussian Splatting counterpart in seconds, enabling 30fps@1400p rendering on mobile phones." width="70%" height="70%" />
+<!-- <img  src="./assets/img/TransGS.png" alt="" class="teaser"  title="We translate PBR Facial assets to Gaussian Splatting counterpart in seconds, enabling 30fps@1400p rendering on mobile phones." width="70%" height="70%" /> -->
+<video autoplay="autoplay" height="width:352px" loop="loop" muted="muted" src="./assets/test_video.mp4" width="width:352px" jm_neat="1310186498"></video>
 <li>
 
 <div class="pub-row">
