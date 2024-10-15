@@ -122,7 +122,7 @@
   <td>
       <div class="magnify-lens">
         <div class="magnify">
-          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/morgan_28_fastest.mp4" width="352px" jm_neat="1310186497"></video>
+          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/morgan_28_faster.mp4" width="352px" jm_neat="1310186497"></video>
         </div>
       </div>
     </td>
@@ -154,7 +154,7 @@
   <td>
       <div class="magnify-lens">
         <div class="magnify">
-          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/morgan_61_fastest.mp4" width="352px" jm_neat="1310186497"></video>
+          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/morgan_61_faster.mp4" width="352px" jm_neat="1310186497"></video>
         </div>
       </div>
     </td>
