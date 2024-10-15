@@ -61,7 +61,31 @@
     </td>
   </tr>
 </table>
-
+<table>
+  <tr>
+  <td>
+      <div class="magnify-lens">
+        <div class="magnify">
+          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Structure_Match/edge_input.mp4" width="352px" jm_neat="1310186497"></video>
+        </div>
+      </div>
+    </td>
+    <td>
+      <div class="magnify-lens">
+        <div class="magnify">
+          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Structure_Match/edge_cond_1.mp4" width="352px" jm_neat="1310186497"></video>
+        </div>
+      </div>
+    </td>
+    <td>
+      <div class="magnify-lens">
+        <div class="magnify">
+          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Structure_Match/edge_cond_2.mp4" width="352px" jm_neat="1310186498"></video>
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
 
 <br>
 
