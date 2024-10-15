@@ -12,6 +12,8 @@ I am a Ph.D. student in the [Department of Computer Science](https://cs.hku.hk/)
 - **[Oct. 2024]** Start intern @ [Deemos Tech.](https://hyperhuman.deemos.com/)
 - **[May. 2023]** Two papers are accepted by SIGGRAPH 2023.
 
+{% include_relative _includes/industry.md %}
+
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/talks.md %}
