@@ -21,7 +21,166 @@
   </div>
 </li>
 
-
+<table>
+  <tr>
+  <td>
+      <div class="magnify-lens">
+        <div class="magnify">
+          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/release_19_faster.mp4" width="352px" jm_neat="1310186497"></video>
+        </div>
+      </div>
+    </td>
+    <td>
+      <div class="magnify-lens">
+        <div class="magnify">
+          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/release_19_fast.mp4" width="352px" jm_neat="1310186497"></video>
+        </div>
+      </div>
+    </td>
+    <td>
+      <div class="magnify-lens">
+        <div class="magnify">
+          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/release_19_normal.mp4" width="352px" jm_neat="1310186498"></video>
+        </div>
+      </div>
+    </td>
+    <td>
+      <div class="magnify-lens">
+        <div class="magnify">
+          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/release_19_slow.mp4" width="352px" jm_neat="1310186498"></video>
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+  <td>
+      <div class="magnify-lens">
+        <div class="magnify">
+          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/release_31_faster.mp4" width="352px" jm_neat="1310186497"></video>
+        </div>
+      </div>
+    </td>
+    <td>
+      <div class="magnify-lens">
+        <div class="magnify">
+          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/release_31_fast.mp4" width="352px" jm_neat="1310186497"></video>
+        </div>
+      </div>
+    </td>
+    <td>
+      <div class="magnify-lens">
+        <div class="magnify">
+          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/release_31_normal.mp4" width="352px" jm_neat="1310186498"></video>
+        </div>
+      </div>
+    </td>
+    <td>
+      <div class="magnify-lens">
+        <div class="magnify">
+          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/release_31_slow.mp4" width="352px" jm_neat="1310186498"></video>
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+  <td>
+      <div class="magnify-lens">
+        <div class="magnify">
+          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/release_77_faster.mp4" width="352px" jm_neat="1310186497"></video>
+        </div>
+      </div>
+    </td>
+    <td>
+      <div class="magnify-lens">
+        <div class="magnify">
+          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/release_77_fast.mp4" width="352px" jm_neat="1310186497"></video>
+        </div>
+      </div>
+    </td>
+    <td>
+      <div class="magnify-lens">
+        <div class="magnify">
+          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/release_77_normal.mp4" width="352px" jm_neat="1310186498"></video>
+        </div>
+      </div>
+    </td>
+    <td>
+      <div class="magnify-lens">
+        <div class="magnify">
+          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/release_77_slow.mp4" width="352px" jm_neat="1310186498"></video>
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+  <td>
+      <div class="magnify-lens">
+        <div class="magnify">
+          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/morgan_28_fastest.mp4" width="352px" jm_neat="1310186497"></video>
+        </div>
+      </div>
+    </td>
+    <td>
+      <div class="magnify-lens">
+        <div class="magnify">
+          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/morgan_28_fast.mp4" width="352px" jm_neat="1310186497"></video>
+        </div>
+      </div>
+    </td>
+    <td>
+      <div class="magnify-lens">
+        <div class="magnify">
+          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/morgan_28_normal.mp4" width="352px" jm_neat="1310186498"></video>
+        </div>
+      </div>
+    </td>
+    <td>
+      <div class="magnify-lens">
+        <div class="magnify">
+          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/morgan_28_slow.mp4" width="352px" jm_neat="1310186498"></video>
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+  <td>
+      <div class="magnify-lens">
+        <div class="magnify">
+          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/morgan_61_fastest.mp4" width="352px" jm_neat="1310186497"></video>
+        </div>
+      </div>
+    </td>
+    <td>
+      <div class="magnify-lens">
+        <div class="magnify">
+          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/morgan_61_fast.mp4" width="352px" jm_neat="1310186497"></video>
+        </div>
+      </div>
+    </td>
+    <td>
+      <div class="magnify-lens">
+        <div class="magnify">
+          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/morgan_61_normal.mp4" width="352px" jm_neat="1310186498"></video>
+        </div>
+      </div>
+    </td>
+    <td>
+      <div class="magnify-lens">
+        <div class="magnify">
+          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/morgan_61_slow.mp4" width="352px" jm_neat="1310186498"></video>
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
 
 <li>
   <div class="pub-row">
