@@ -12,7 +12,7 @@
               <div class="magnify">
                 <!-- <a href="http://clio.corp.adobe.com/model_evaluation//sensei-fs/users/dqin/fps-test-ship/eval_sentences_morgan/Mori_ckpt_step00813000.pth_size-40x44x80_steps-50_timestepInterpSteps-25_cfg-7.5_eta-1.0_negstyle-custom_ness-none_matchenergy-True_ema-True_cfgcutofft-20_frames-40/eval_sentences_morgan_fps-test_FPS=6/09-25-2024_23-59-26/eval_sentences_morgan_fps-test_FPS=6_images/row_1_col_0.mp4" target="_blank"> -->
                   <video autoplay="autoplay" controls="controls" height="width:352px" loop="loop" muted="muted" src="./assets/test_video.mp4" width="width:352px" jm_neat="1310186497"></video>
-                </a>
+                <!-- </a> -->
               </div>
             </div>
           </td>
@@ -21,7 +21,7 @@
               <div class="magnify">
                 <!-- <a href="http://clio.corp.adobe.com/model_evaluation//sensei-fs/users/dqin/fps-test-ship/eval_sentences_morgan/Mori_ckpt_step00813000.pth_size-40x44x80_steps-50_timestepInterpSteps-25_cfg-7.5_eta-1.0_negstyle-custom_ness-none_matchenergy-True_ema-True_cfgcutofft-20_frames-40/eval_sentences_morgan_fps-test_FPS=6/09-25-2024_23-59-26/eval_sentences_morgan_fps-test_FPS=6_images/row_1_col_1.mp4" target="_blank"> -->
                   <video autoplay="autoplay" height="width:352px" loop="loop" muted="muted" src="./assets/test_video.mp4" width="width:352px" jm_neat="1310186498"></video>
-                </a>
+                <!-- </a> -->
               </div>
             </div>
           </td>
