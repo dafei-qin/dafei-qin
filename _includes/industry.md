@@ -7,24 +7,46 @@
 
 <!-- <img  src="./assets/img/TransGS.png" alt="" class="teaser"  title="We translate PBR Facial assets to Gaussian Splatting counterpart in seconds, enabling 30fps@1400p rendering on mobile phones." width="70%" height="70%" /> -->
 <!-- <video autoplay="autoplay" height="width:352px" loop="loop" muted="muted" src="./assets/test_video.mp4" width="width:352px" jm_neat="1310186498"></video> -->
-<td>
-            <div class="magnify-lens">
-              <div class="magnify">
-                <!-- <a href="http://clio.corp.adobe.com/model_evaluation//sensei-fs/users/dqin/fps-test-ship/eval_sentences_morgan/Mori_ckpt_step00813000.pth_size-40x44x80_steps-50_timestepInterpSteps-25_cfg-7.5_eta-1.0_negstyle-custom_ness-none_matchenergy-True_ema-True_cfgcutofft-20_frames-40/eval_sentences_morgan_fps-test_FPS=6/09-25-2024_23-59-26/eval_sentences_morgan_fps-test_FPS=6_images/row_1_col_0.mp4" target="_blank"> -->
-                  <video autoplay="autoplay" controls="controls" height="width:352px" loop="loop" muted="muted" src="./assets/test_video.mp4" width="width:352px" jm_neat="1310186497"></video>
-                <!-- </a> -->
-              </div>
-            </div>
-          </td>
-          <td>
-            <div class="magnify-lens">
-              <div class="magnify">
-                <!-- <a href="http://clio.corp.adobe.com/model_evaluation//sensei-fs/users/dqin/fps-test-ship/eval_sentences_morgan/Mori_ckpt_step00813000.pth_size-40x44x80_steps-50_timestepInterpSteps-25_cfg-7.5_eta-1.0_negstyle-custom_ness-none_matchenergy-True_ema-True_cfgcutofft-20_frames-40/eval_sentences_morgan_fps-test_FPS=6/09-25-2024_23-59-26/eval_sentences_morgan_fps-test_FPS=6_images/row_1_col_1.mp4" target="_blank"> -->
-                  <video autoplay="autoplay" height="width:352px" loop="loop" muted="muted" src="./assets/test_video.mp4" width="width:352px" jm_neat="1310186498"></video>
-                <!-- </a> -->
-              </div>
-            </div>
-          </td>
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+td {
+  padding: 10px;
+  vertical-align: middle; /* Optional - for vertical alignment */
+}
+
+.magnify-lens {
+  display: inline-block;
+  text-align: center; /* Center the video in each cell */
+}
+
+video {
+  width: 100%;
+  max-width: 352px; /* Adjust max-width to ensure the correct size */
+  height: auto; /* Maintain aspect ratio */
+}
+
+<table>
+  <tr>
+    <td>
+      <div class="magnify-lens">
+        <div class="magnify">
+          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/test_video.mp4" width="352px" jm_neat="1310186497"></video>
+        </div>
+      </div>
+    </td>
+    <td>
+      <div class="magnify-lens">
+        <div class="magnify">
+          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/test_video.mp4" width="352px" jm_neat="1310186498"></video>
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
 <li>
 
 <div class="pub-row">
