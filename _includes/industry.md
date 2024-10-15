@@ -8,6 +8,25 @@
 <!-- <img  src="./assets/img/TransGS.png" alt="" class="teaser"  title="We translate PBR Facial assets to Gaussian Splatting counterpart in seconds, enabling 30fps@1400p rendering on mobile phones." width="70%" height="70%" /> -->
 <!-- <video autoplay="autoplay" height="width:200px" loop="loop" muted="muted" src="./assets/test_video.mp4" width="width:200px" jm_neat="1310186498"></video> -->
 
+
+<svg width="600" height="100">
+    <!-- 定义渐变 -->
+    <defs>
+        <linearGradient id="red-to-blue" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" style="stop-color:red; stop-opacity:1" />
+            <stop offset="100%" style="stop-color:blue; stop-opacity:1" />
+        </linearGradient>
+    </defs>
+    <!-- 创建箭头 -->
+    <line x1="20" y1="50" x2="580" y2="50" stroke="url(#red-to-blue)" stroke-width="20" marker-end="url(#arrowhead)" marker-start="url(#arrowhead)" />
+    <!-- 定义箭头标记 -->
+    <defs>
+        <marker id="arrowhead" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto">
+            <polygon points="0 0, 10 5, 0 10" fill="url(#red-to-blue)" />
+        </marker>
+    </defs>
+</svg>
+
 <li>
   <div class="pub-row">
     <div class="col-sm-9" style="position: relative;padding-right: 0px;padding-left: 0px;">
