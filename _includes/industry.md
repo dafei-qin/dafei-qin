@@ -27,7 +27,7 @@
   <td>
       <div class="magnify-lens">
         <div class="magnify">
-          <img  src="./assets/img/dynamic_arrow.png" width="70%" height="70%" />
+          <img  src="./assets/img/dynamic_arrow.png" width="100%" height="100%" />
         </div>
       </div>
   </td>
@@ -39,28 +39,28 @@
   <td>
       <div class="magnify-lens">
         <div class="magnify">
-          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/release_19_faster.mp4" width="200px" jm_neat="1310186497"></video>
+          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/release_19_faster.mp4" width="150px" jm_neat="1310186497"></video>
         </div>
       </div>
     </td>
     <td>
       <div class="magnify-lens">
         <div class="magnify">
-          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/release_19_fast.mp4" width="200px" jm_neat="1310186497"></video>
+          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/release_19_fast.mp4" width="150px" jm_neat="1310186497"></video>
         </div>
       </div>
     </td>
     <td>
       <div class="magnify-lens">
         <div class="magnify">
-          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/release_19_normal.mp4" width="200px" jm_neat="1310186498"></video>
+          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/release_19_normal.mp4" width="150px" jm_neat="1310186498"></video>
         </div>
       </div>
     </td>
     <td>
       <div class="magnify-lens">
         <div class="magnify">
-          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/release_19_slow.mp4" width="200px" jm_neat="1310186498"></video>
+          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/release_19_slow.mp4" width="150px" jm_neat="1310186498"></video>
         </div>
       </div>
     </td>
@@ -71,28 +71,28 @@
   <td>
       <div class="magnify-lens">
         <div class="magnify">
-          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/release_31_faster.mp4" width="200px" jm_neat="1310186497"></video>
+          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/release_31_faster.mp4" width="150px" jm_neat="1310186497"></video>
         </div>
       </div>
     </td>
     <td>
       <div class="magnify-lens">
         <div class="magnify">
-          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/release_31_fast.mp4" width="200px" jm_neat="1310186497"></video>
+          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/release_31_fast.mp4" width="150px" jm_neat="1310186497"></video>
         </div>
       </div>
     </td>
     <td>
       <div class="magnify-lens">
         <div class="magnify">
-          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/release_31_normal.mp4" width="200px" jm_neat="1310186498"></video>
+          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/release_31_normal.mp4" width="150px" jm_neat="1310186498"></video>
         </div>
       </div>
     </td>
     <td>
       <div class="magnify-lens">
         <div class="magnify">
-          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/release_31_slow.mp4" width="200px" jm_neat="1310186498"></video>
+          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/release_31_slow.mp4" width="150px" jm_neat="1310186498"></video>
         </div>
       </div>
     </td>
@@ -103,28 +103,28 @@
   <td>
       <div class="magnify-lens">
         <div class="magnify">
-          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/release_77_faster.mp4" width="200px" jm_neat="1310186497"></video>
+          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/release_77_faster.mp4" width="150px" jm_neat="1310186497"></video>
         </div>
       </div>
     </td>
     <td>
       <div class="magnify-lens">
         <div class="magnify">
-          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/release_77_fast.mp4" width="200px" jm_neat="1310186497"></video>
+          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/release_77_fast.mp4" width="150px" jm_neat="1310186497"></video>
         </div>
       </div>
     </td>
     <td>
       <div class="magnify-lens">
         <div class="magnify">
-          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/release_77_normal.mp4" width="200px" jm_neat="1310186498"></video>
+          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/release_77_normal.mp4" width="150px" jm_neat="1310186498"></video>
         </div>
       </div>
     </td>
     <td>
       <div class="magnify-lens">
         <div class="magnify">
-          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/release_77_slow.mp4" width="200px" jm_neat="1310186498"></video>
+          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/release_77_slow.mp4" width="150px" jm_neat="1310186498"></video>
         </div>
       </div>
     </td>
@@ -135,28 +135,28 @@
   <td>
       <div class="magnify-lens">
         <div class="magnify">
-          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/morgan_28_faster.mp4" width="200px" jm_neat="1310186497"></video>
+          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/morgan_28_faster.mp4" width="150px" jm_neat="1310186497"></video>
         </div>
       </div>
     </td>
     <td>
       <div class="magnify-lens">
         <div class="magnify">
-          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/morgan_28_fast.mp4" width="200px" jm_neat="1310186497"></video>
+          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/morgan_28_fast.mp4" width="150px" jm_neat="1310186497"></video>
         </div>
       </div>
     </td>
     <td>
       <div class="magnify-lens">
         <div class="magnify">
-          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/morgan_28_normal.mp4" width="200px" jm_neat="1310186498"></video>
+          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/morgan_28_normal.mp4" width="150px" jm_neat="1310186498"></video>
         </div>
       </div>
     </td>
     <td>
       <div class="magnify-lens">
         <div class="magnify">
-          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/morgan_28_slow.mp4" width="200px" jm_neat="1310186498"></video>
+          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/morgan_28_slow.mp4" width="150px" jm_neat="1310186498"></video>
         </div>
       </div>
     </td>
@@ -167,28 +167,28 @@
   <td>
       <div class="magnify-lens">
         <div class="magnify">
-          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/morgan_61_faster.mp4" width="200px" jm_neat="1310186497"></video>
+          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/morgan_61_faster.mp4" width="150px" jm_neat="1310186497"></video>
         </div>
       </div>
     </td>
     <td>
       <div class="magnify-lens">
         <div class="magnify">
-          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/morgan_61_fast.mp4" width="200px" jm_neat="1310186497"></video>
+          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/morgan_61_fast.mp4" width="150px" jm_neat="1310186497"></video>
         </div>
       </div>
     </td>
     <td>
       <div class="magnify-lens">
         <div class="magnify">
-          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/morgan_61_normal.mp4" width="200px" jm_neat="1310186498"></video>
+          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/morgan_61_normal.mp4" width="150px" jm_neat="1310186498"></video>
         </div>
       </div>
     </td>
     <td>
       <div class="magnify-lens">
         <div class="magnify">
-          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/morgan_61_slow.mp4" width="200px" jm_neat="1310186498"></video>
+          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/vids/Motion_Intensity/morgan_61_slow.mp4" width="150px" jm_neat="1310186498"></video>
         </div>
       </div>
     </td>
