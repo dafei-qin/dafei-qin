@@ -8,29 +8,17 @@
 <!-- <img  src="./assets/img/TransGS.png" alt="" class="teaser"  title="We translate PBR Facial assets to Gaussian Splatting counterpart in seconds, enabling 30fps@1400p rendering on mobile phones." width="70%" height="70%" /> -->
 <!-- <video autoplay="autoplay" height="width:352px" loop="loop" muted="muted" src="./assets/test_video.mp4" width="width:352px" jm_neat="1310186498"></video> -->
 
-table {
-  width: 100%;
-  border-collapse: collapse;
-}
 
-td {
-  padding: 10px;
-  vertical-align: middle; /* Optional - for vertical alignment */
-}
-
-.magnify-lens {
-  display: inline-block;
-  text-align: center; /* Center the video in each cell */
-}
-
-video {
-  width: 100%;
-  max-width: 352px; /* Adjust max-width to ensure the correct size */
-  height: auto; /* Maintain aspect ratio */
-}
 
 <table>
   <tr>
+  <td>
+      <div class="magnify-lens">
+        <div class="magnify">
+          <video autoplay="autoplay" controls="controls" loop="loop" muted="muted" src="./assets/test_video.mp4" width="352px" jm_neat="1310186497"></video>
+        </div>
+      </div>
+    </td>
     <td>
       <div class="magnify-lens">
         <div class="magnify">
