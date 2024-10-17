@@ -8,7 +8,7 @@
 <!-- <img  src="./assets/img/TransGS.png" alt="" class="teaser"  title="We translate PBR Facial assets to Gaussian Splatting counterpart in seconds, enabling 30fps@1400p rendering on mobile phones." width="70%" height="70%" /> -->
 <!-- <video autoplay="autoplay" height="width:200px" loop="loop" muted="muted" src="./assets/test_video.mp4" width="width:200px" jm_neat="1310186498"></video> -->
 
-<h3 >Training Free Motion Intensity Control for Video Generation</h3>
+<h3><i>Training Free Motion Intensity Control for Video Generation</i></h3>
 <table>
   <tr>
   <td>
@@ -182,7 +182,7 @@
   </tr>
 </table>
 
-<div class="title">Structural Match for Video Generation</div>
+<h3><i>Structural Match for Video Generation</i></h3>
 Presented in <a href="https://www.adobe.com/max/2024/sessions/max-sneaks-gs3.html">Adobe MAX 2024</a> (22:37 -- 25:04) by <a href="https://research.adobe.com/person/li-yi-wei/">Li-Yi Wei</a>.
 
 <table>
