@@ -183,6 +183,7 @@
 </table>
 
 <div class="title">Structural Match for Video Generation</div>
+Presented in [Adobe MAX 2024](https://www.adobe.com/max/2024/sessions/max-sneaks-gs3.html) (22:37 -- 25:04) by [Li-Yi Wei](https://research.adobe.com/person/li-yi-wei/).
 <table>
   <tr>
   <td>
