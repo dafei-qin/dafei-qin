@@ -24,6 +24,7 @@
   <tr>
   <td>
       <div class="magnify-lens">
+            <div class="title">Training Free Motion Intensity Control for Video Generation</div>
         <div class="magnify">
           <img  src="./assets/img/dynamic_arrow.png" width="100%" height="100%" />
         </div>
