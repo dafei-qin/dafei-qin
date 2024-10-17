@@ -8,7 +8,7 @@
 <!-- <img  src="./assets/img/TransGS.png" alt="" class="teaser"  title="We translate PBR Facial assets to Gaussian Splatting counterpart in seconds, enabling 30fps@1400p rendering on mobile phones." width="70%" height="70%" /> -->
 <!-- <video autoplay="autoplay" height="width:200px" loop="loop" muted="muted" src="./assets/test_video.mp4" width="width:200px" jm_neat="1310186498"></video> -->
 
-<h4 >Training Free Motion Intensity Control for Video Generation</h4>
+<h3 >Training Free Motion Intensity Control for Video Generation</h3>
 <table>
   <tr>
   <td>
