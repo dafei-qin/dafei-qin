@@ -8,23 +8,11 @@
 <!-- <img  src="./assets/img/TransGS.png" alt="" class="teaser"  title="We translate PBR Facial assets to Gaussian Splatting counterpart in seconds, enabling 30fps@1400p rendering on mobile phones." width="70%" height="70%" /> -->
 <!-- <video autoplay="autoplay" height="width:200px" loop="loop" muted="muted" src="./assets/test_video.mp4" width="width:200px" jm_neat="1310186498"></video> -->
 
-<li>
-<!--     <div class="col-sm-3" style="position: relative;padding-right: 0px;padding-left: 0px;"> -->
-      <div class="title">Training Free Motion Intensity Control for Video Generation</div>
-      <!-- <div class="author"><Strong>Dafei Qin</Strong>, Hongyang Lin, Qixuan Zhang, Kaichun Qiao, Longwen Zhang, Zijun Zhao, Jun Saito, Jingyi Yu, Lan Xu, Taku Komura</div> -->
-      <!-- <div class="periodical"><em>arXiv</em></div> -->
-      <!-- <div class="links">
-        <a href="https://dafei-qin.github.io/TransGS.github.io/" class="link" role="link" target="_blank" style="font-size:16px;"><u>Project Page</u></a>
-      </div> -->
-<!--   </div> -->
-</li>
-
-
+<div class="title">Training Free Motion Intensity Control for Video Generation</div>
 <table>
   <tr>
   <td>
       <div class="magnify-lens">
-            <div class="title">Training Free Motion Intensity Control for Video Generation</div>
         <div class="magnify">
           <img  src="./assets/img/dynamic_arrow.png" width="100%" height="100%" />
         </div>
@@ -194,16 +182,7 @@
   </tr>
 </table>
 
-<li>
-  <div class="pub-row">
-    <div class="col-sm-7" style="position: relative;padding-right: 0px;padding-left: 0px;">
-      <div class="title">Structural Match for Video Generation</div>
-      <!-- <div class="author"><Strong>Dafei Qin</Strong>, Hongyang Lin, Qixuan Zhang, Kaichun Qiao, Longwen Zhang, Zijun Zhao, Jun Saito, Jingyi Yu, Lan Xu, Taku Komura</div> -->
-      <!-- <div class="periodical"><em>arXiv</em></div> -->
-    </div>
-  </div>
-</li>
-
+<div class="title">Structural Match for Video Generation</div>
 <table>
   <tr>
   <td>
